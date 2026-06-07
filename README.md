@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=JudahMatthewS&textBg=false)
 
 # Hi there 👋, I'm Judah Matthew S
 
@@ -40,11 +41,6 @@ I enjoy exploring coding concepts, solving problems, and building my knowledge s
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Judah%20Matthew%20S))
-
----
 
 ## 📫 Connect With Me
 
