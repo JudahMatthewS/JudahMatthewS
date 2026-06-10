@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=JudahMatthewS&textBg=false)
 
+![Uploading ChatGPT Image Jun 10, 2026, 09_06_19 PM.png…]()
+
+
 # Hi there 👋, I'm Judah Matthew S
 
 ### Python Beginner | Fast Learner | Future Developer 🚀
